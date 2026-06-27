@@ -1,0 +1,24 @@
+# Core
+numpy>=1.24.0,<2.0
+psutil>=5.9.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# Vector search
+faiss-cpu>=1.7.4
+
+# Data processing (optional, for notebooks)
+pandas>=2.0.0
+polars>=0.20.0
+
+# Visualization (optional, for notebooks)
+plotly>=5.15.0
+matplotlib>=3.7.0
+
+# Demo
+streamlit>=1.30.0
+
+# Document parsing (for JD — dev only)
+python-docx>=0.8.11
