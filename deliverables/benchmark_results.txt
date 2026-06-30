@@ -1,0 +1,11 @@
+TalentBrain Benchmark Results
+
+Candidates          : 100,000
+Features            : 76
+Prefilter           : 100K → 5K
+Retrieval           : MiniLM + FAISS HNSW
+Runtime             : 63.4 seconds
+Peak Memory         : 1.27 GB
+CPU                 : Yes
+Validation          : Passed
+Rows Submitted      : 100

@@ -74,3 +74,26 @@ If you want to verify that your environment meets the strict computational const
 ```bash
 python3 evaluation/benchmark.py
 ```
+
+## Deliverables
+
+Located inside deliverables/
+
+Contents:
+
+- submission.csv
+- benchmark_results.txt
+- TalentBrain_Architecture.png
+- TalentBrain_Presentation.pdf
+
+Benchmark Summary
+
+Runtime: 63.4 seconds
+
+Peak Memory: 1.27 GB
+
+Candidate Pool: 100,000
+
+Features: 76
+
+Validation: Passed
